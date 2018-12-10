@@ -24,12 +24,15 @@ a {
 }
 .use{
   color: gray;
+  text direction: none;
 }
 .intime{
   color: red;
+  text direction: none;
 }
 .notuse{
   color: black;
+  text direction: none;
 }
 #grid{
   display: grid;
