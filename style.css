@@ -20,19 +20,19 @@ b{
 }
 a {
   color: black;
-  text direction: none;
+  text-decoration: none;
 }
 .use{
   color: gray;
-  text direction: none;
+  text-decoration: none;
 }
 .intime{
   color: red;
-  text direction: none;
+  text-decoration: none;
 }
 .notuse{
   color: black;
-  text direction: none;
+  text-decoration: none;
 }
 #grid{
   display: grid;
