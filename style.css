@@ -5,6 +5,10 @@ h1 {
   padding-bottom: 30px;
   margin-bottom:0px;
 }
+body {
+  background-color: #AAB597;
+}
+
 p {
   padding-left: 30px;
 }
@@ -13,6 +17,19 @@ li{
 }
 b{
   color:#556B2F;
+}
+a {
+  color: black;
+  text direction: none;
+}
+.use{
+  color: gray;
+}
+.intime{
+  color: red;
+}
+.notuse{
+  color: black;
 }
 #grid{
   display: grid;
